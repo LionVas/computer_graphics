@@ -1,4 +1,5 @@
 Labs for Computer Graphics subject, codded in Rust.
+
 Task 1 includes 3 dithering algorhytms:
   - Common dithering
   - Floyd
